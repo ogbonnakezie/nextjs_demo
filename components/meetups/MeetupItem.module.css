@@ -24,6 +24,9 @@
   font-size: 1.25rem;
   color: #2c292b;
 }
+.content address {
+  color: blue;
+}
 
 .actions {
   padding: 1.5rem;

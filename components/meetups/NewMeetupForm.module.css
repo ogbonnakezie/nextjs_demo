@@ -21,6 +21,9 @@
   padding: 0.25rem;
   width: 100%;
 }
+.control label {
+  color: black;
+}
 
 .actions {
   margin-top: 1rem;
